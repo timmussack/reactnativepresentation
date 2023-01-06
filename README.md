@@ -8,7 +8,7 @@
 ## Benefits of React Native
 > Companies like React Native because they don't have to hire separate developers
   - Swift or Objective-C developers for iOS
-  - Java Kotlin developers for Android
+  - Java or Kotlin developers for Android
 
 > Great documentation
  - https://reactnative.dev/
