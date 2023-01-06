@@ -1,4 +1,4 @@
-# React Native & Expo Go
+# React Native & Expo
 
 ## What is React Native?
 > Framework for building native mobile apps using JavaScript
@@ -6,11 +6,13 @@
 > Both iOS & Android apps can be created
 
 ## Benefits of React Native
+> The web development team can maintain mobile code base
+
 > Companies don't have to hire separate developers
   - iOS (Swift, Objective-C)
   - Android (Java, Kotlin)
 
-> The web development team can maintain mobile code base
+> Easy to get started with Expo
 
 > Great documentation
  - https://reactnative.dev/
@@ -24,11 +26,11 @@
 ![Walmart](https://img.shields.io/badge/-Walmart-yellow)
 
 ### What is Expo?
-> Framework that works with React Native and makes the dev process less complicated.
+> Framework that works with React Native and makes the development process less complicated
 
-> You don't have to use Expo. You can use the React Native CLI but this requires some iOS & Android specific knowledge.
+> You don't have to use Expo. You can use the React Native CLI but this requires some iOS & Android specific knowledge
 
-> React Native CLI does offer more customization and flexibility.
+> React Native CLI does offer more customization and flexibility
 
 ### How to get started
 > Install Expo CLI globally
