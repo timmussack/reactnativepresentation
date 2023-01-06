@@ -17,7 +17,10 @@
 
 ## Apps that were built with React Native
 ![Uber Eats](https://img.shields.io/badge/-Uber%20Eats-green)
-> FaceBook, Instagram, Pinterest, Skype, Uber Eats
+![Facebook](https://img.shields.io/badge/-Facebook-blue)
+![Pinterest](https://img.shields.io/badge/-Pineterest-red)
+![Skype](https://img.shields.io/badge/-Skype-blue)
+![Instagram](https://img.shields.io/badge/-Instagram-purple)
 
 ### What is Expo?
 > Framework that works with React Native and makes the dev process less complicated.
