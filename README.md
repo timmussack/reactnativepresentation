@@ -8,7 +8,7 @@
 ## Benefits of React Native
 > Companies don't have to hire separate deverlopers
   - iOS (Swift, Objective-C)
-  - Android (Java, Kotlin) experts
+  - Android (Java, Kotlin)
 
 > The web development team can maintain mobile code base
 
