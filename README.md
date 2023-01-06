@@ -6,7 +6,7 @@
 > Both iOS & Android apps can be created
 
 ## Benefits of React Native
-> Companies don't have to hire separate deverlopers
+> Companies don't have to hire separate developers
   - iOS (Swift, Objective-C)
   - Android (Java, Kotlin)
 
@@ -16,6 +16,7 @@
  - https://reactnative.dev/
 
 ## Apps that were built with React Native
+![Uber Eats](https://img.shields.io/badge/-Uber%20Eats-green)
 > FaceBook, Instagram, Pinterest, Skype, Uber Eats
 
 ### What is Expo?
