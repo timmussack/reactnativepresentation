@@ -26,7 +26,7 @@
 ### How to get started
 > Install Expo CLI globally
 
-  > npm install expo-cli -g
+  - npm install expo-cli -g
 
 > Create Expo project
 
