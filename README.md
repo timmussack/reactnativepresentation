@@ -13,7 +13,7 @@
 > Great documentation
  - https://reactnative.dev/
 
-## Apps that were built using React Native
+## Popular mobile apps that were built using React Native
 ![Uber Eats](https://img.shields.io/badge/-Uber%20Eats-green)
 ![Facebook](https://img.shields.io/badge/-Facebook-blue)
 ![Pinterest](https://img.shields.io/badge/-Pineterest-red)
@@ -22,7 +22,7 @@
 ![Walmart](https://img.shields.io/badge/-Walmart-yellow)
 
 ### What is Expo?
-> Framework that works with React Native and makes the development process less complicated
+> Framework for React Native and makes the development process less complicated
 
 > Expo allows you to submit your project to the Google or Apple app store when it is complete
 
