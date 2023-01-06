@@ -1,36 +1,37 @@
 import { StatusBar } from "expo-status-bar";
 import React, { useState, useEffect } from "react";
 
-//All elements have to imported from react-native, no <div>, <img>, etc.
+//All elements and native hooks have to imported from "react-native", no <div>, <img>, <p>, <li> etc.
 import { StyleSheet, Text, View, Button, Image, useWindowDimensions } from "react-native";
 
 
 const App = () => {
+  //useState, useRef, useEffect all work like React
   const [showImage, setShowImage] = useState(false);
   const [changeColor, setChangeColor] = useState(false);
-  //React Native Hook to help track screen orientation
+  //React Native hook to help track screen orientation a useColorScheme() hook also exists
   const {height, width} = useWindowDimensions();
 
-  //Screen is landscape ? elements left to right otherwise top to bottom
+  //Decides flexDirection by asking if screen is landscape ? render elements left to right otherwise top to bottom
   let flexType = width > height ? "row" : "column";
 
   //changeColor === true ? make text red otherwise black
   let textColor = changeColor ? "#D30000" : "#212121";
 
   return (
-    //Parent View container
+    //Parent View element container with 4 child elements, flexDirection is defined inline so that the flexType variable is in scope
     <View style={[ styles.container, {flexDirection: flexType} ]}>
 
-      {/* Child View container 1 */}
-      <View style={{ flex: 1, justifyContent: "center", borderWidth: 2, borderColor: "#212121", borderRadius: 10 }}>
+      {/* Child View element 1 */}
+      <View style={styles.view1}>
         <Text
           style={{ alignSelf: "center", fontWeight: "bold", fontSize: 20, color: textColor, padding: 5 }}>
           React Native & Expo Go
         </Text>
       </View>
 
-      {/* Child View container 2 */}
-      <View style={{ flex: 1, borderWidth: 2, borderColor: "#212121", borderRadius: 10, justifyContent: "center" }}>
+      {/* Child View element 2 */}
+      <View style={styles.view2}>
         <Button
           onPress={() => {
             setChangeColor(!changeColor);
@@ -40,8 +41,8 @@ const App = () => {
         />
       </View>
 
-      {/* Child View container 3 */}
-      <View style={{ flex: 1, borderWidth: 2, borderColor: "#212121", borderRadius: 10, justifyContent: "center" }}>
+      {/* Child View element 3 */}
+      <View style={styles.view3}>
         <Button
           onPress={() => {
             setShowImage(!showImage);
@@ -51,12 +52,12 @@ const App = () => {
         />
       </View>
 
-      {/* Child View container 4 */}
-      <View style={{ flex: 3, borderWidth: 2, borderColor: "#212121", borderRadius: 10, justifyContent: "center" }}>
+      {/* Child View element 4 */}
+      <View style={styles.view4}>
         { showImage &&
           <Image
           source={ require('./assets/dog.png') }
-          style={{ backgroundColor: "#FFFFFF", width: 150, position: "relative" }}
+          style={styles.dog}
         /> }
       </View>
 
@@ -70,10 +71,43 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    padding: 20,
-    borderWidth: 4,
+    padding: 15,
+    borderWidth: 5,
     borderColor: "#3BB143",
     borderRadius: 7,
+  },
+  view1: {
+    flex: 1,
+    borderWidth: 2,
+    borderColor: "#212121",
+    borderRadius: 5,
+    justifyContent: "center",
+  },
+  view2: {
+    flex: 1,
+    borderWidth: 2,
+    borderColor: "#212121",
+    borderRadius: 5,
+    justifyContent: "center",
+  },
+  view3: {
+    flex: 1,
+    borderWidth: 2,
+    borderColor: "#212121",
+    borderRadius: 5,
+    justifyContent: "center",
+  },
+  view4: {
+    flex: 3,
+    borderWidth: 2,
+    borderColor: "#212121",
+    borderRadius: 5,
+    justifyContent: "center",
+  },
+  dog: {
+    backgroundColor: "#FFFFFF",
+    width: 150,
+    position: "relative",
   },
 });
 
