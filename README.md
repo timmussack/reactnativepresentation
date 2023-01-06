@@ -1,6 +1,8 @@
 # React Native & Expo Presentation
 
 ## What is React Native?
+> Started by Facebook in 2015
+
 > Framework for building native mobile apps using JavaScript
 
 > Allows you to create both iOS & Android apps
