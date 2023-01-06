@@ -5,7 +5,7 @@
 
 > Allows you to create both iOS & Android apps
 
-> Companies like React Native because they don't have to hire separate developers
+> Companies like React Native because they don't have to hire separate developers for a mobile code base
   - Swift or Objective-C developers for iOS
   - Java or Kotlin developers for Android
 
