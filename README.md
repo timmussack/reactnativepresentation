@@ -22,9 +22,9 @@
 ![Walmart](https://img.shields.io/badge/-Walmart-yellow)
 
 ## What is Expo?
-> Framework for React Native and makes the development process less complicated
+> Framework for React Native that makes the development process less complicated
 
-> Expo allows you to submit your project to the Google or Apple app store when it is complete
+> Expo allows you to submit your project to the Google or Apple app store when it is finished
 
 ## How to get started
 > Install Expo CLI globally
