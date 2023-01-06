@@ -29,30 +29,3 @@
   > npm start
 > Install Expo Go on your mobile device from app store
   > load QR code into Expo Go
-
-Starting Metro Bundler
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█ ▄▄▄▄▄ █▄▀▀▄▄ ██ █ ▄▄▄▄▄ █
-█ █   █ ███▄█   ▄▄█ █   █ █
-█ █▄▄▄█ ██▄▀▄▀█▀█▀█ █▄▄▄█ █
-█▄▄▄▄▄▄▄█ █ ▀▄▀▄▀ █▄▄▄▄▄▄▄█
-█▄ ▀▄ ▀▄▀█ ▄▄▀▀█▀ █▄█▀█▀▀▄█
-█ ▄▄█▀▄▄▀ ▀  ▀▄▄▄ ▀███▄▀▀ █
-█ █ █ ▀▄▀█▄█▄▄▀▄ █ ▄▀▀█▀ ██
-█ ▄█▄▄▀▄▄▀█▀ ▄▄█ ▄▀ ██▄▀  █
-█▄██▄▄█▄▄ ██▀   █ ▄▄▄  ▄▀▄█
-█ ▄▄▄▄▄ ██  ▄  ▄█ █▄█ ██▀ █
-█ █   █ █   ▀▀██▄ ▄  ▄ █▀▀█
-█ █▄▄▄█ █▀▄   █▄ ▄█▀▀▄█   █
-█▄▄▄▄▄▄▄█▄▄▄▄██▄▄▄▄█▄▄███▄█
-
-› Metro waiting on exp://192.168.1.155:19000
-› Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
-
-› Press a │ open Android
-› Press i │ open iOS simulator
-› Press w │ open web
-
-› Press j │ open debugger
-› Press r │ reload app
-› Press m │ toggle menu
