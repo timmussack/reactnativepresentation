@@ -2,6 +2,7 @@
 
 ## What is React Native?
 > Framework for building native mobile apps using JavaScript
+
 > iOS & Android apps can be created
 
 ## Benefits of React Native
