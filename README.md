@@ -21,6 +21,7 @@
 ![Pinterest](https://img.shields.io/badge/-Pineterest-red)
 ![Skype](https://img.shields.io/badge/-Skype-blue)
 ![Instagram](https://img.shields.io/badge/-Instagram-purple)
+![Walmart](https://img.shields.io/badge/-Walmart-yellow)
 
 ### What is Expo?
 > Framework that works with React Native and makes the dev process less complicated.
