@@ -45,4 +45,4 @@
 
 > Install Expo Go on your mobile device from app store
 
-  - Load QR code into Expo Go (camera on iPhone, in app on Android)
+  - Load project onto Expo Go using the QR code
