@@ -1,4 +1,4 @@
-# React Native & Expo
+# React Native & Expo Presentation
 
 ## What is React Native?
 > Framework for building native mobile apps using JavaScript
