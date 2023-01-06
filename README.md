@@ -24,7 +24,7 @@
 ### What is Expo?
 > Framework that works with React Native and makes the development process less complicated
 
-> Expo also allows you to submit your code to Google or Apple app store when it is complete
+> Expo allows you to submit your project to the Google or Apple app store when it is complete
 
 ### How to get started
 > Install Expo CLI globally
@@ -45,4 +45,4 @@
 
 > Install Expo Go on your mobile device from app store
 
-  - Load project onto Expo Go using the QR code
+  - Load project onto your phone using QR code in the terminal
