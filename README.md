@@ -30,16 +30,16 @@
 
 > Create Expo project
 
-  > expo init <your_app_name>
+  - expo init <your_app_name>
 
-  > Choose "managed" workflow for a pure JS project
+  - Choose "managed" workflow for a pure JS project
 
-  > The other option is a "bare" workflow
+  - The other option is a "bare" workflow
 
 > Open Expo project in VS Code
 
-  > npm start
+  - npm start
 
 > Install Expo Go on your mobile device from app store
 
-  > load QR code into Expo Go
+  - load QR code into Expo Go
