@@ -36,7 +36,7 @@
 
   - expo init <your_app_name>
 
-  - Choose "managed" workflow for a JavaScrip only project
+  - Choose "managed" workflow for a JavaScript only project
 
   - The other option is a "bare" workflow that allows you to work with the iOS & Android SDK
 
