@@ -32,6 +32,8 @@
 
 > React Native CLI does offer more customization and flexibility
 
+> Expo also allows you to submit your code to Google or Apple app store when it is complete
+
 ### How to get started
 > Install Expo CLI globally
 
