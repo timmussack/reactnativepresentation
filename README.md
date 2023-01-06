@@ -7,9 +7,11 @@
 
 ## Benefits of React Native
 > Companies don't have to hire iOS (Swift, Obj-C) or Android (Java, Kotlin) experts
+
 > The web development team can maintain mobile code base
+
 > Great documentation
- > https://reactnative.dev/
+ - https://reactnative.dev/
 
 ## Apps that were built with React Native
 > FaceBook, Instagram, Pinterest, Skype, Uber Eats
