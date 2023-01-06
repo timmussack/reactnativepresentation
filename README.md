@@ -13,7 +13,7 @@
 > Great documentation
  - https://reactnative.dev/
 
-## Apps that were built with React Native
+## Apps that were built using React Native
 ![Uber Eats](https://img.shields.io/badge/-Uber%20Eats-green)
 ![Facebook](https://img.shields.io/badge/-Facebook-blue)
 ![Pinterest](https://img.shields.io/badge/-Pineterest-red)
