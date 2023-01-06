@@ -3,12 +3,12 @@
 ## What is React Native?
 > Framework for building native mobile apps using JavaScript
 
-> Allow you to create both iOS & Android apps
+> Allows you to create both iOS & Android apps
 
 ## Benefits of React Native
-> Companies don't have to hire separate developers
-  - iOS (Swift, Objective-C)
-  - Android (Java, Kotlin)
+> Companies like React Native because they don't have to hire separate developers
+  - Swift or Objective-C developers for iOS
+  - Java Kotlin developers for Android
 
 > Great documentation
  - https://reactnative.dev/
