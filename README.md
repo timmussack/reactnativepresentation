@@ -21,12 +21,12 @@
 ![Instagram](https://img.shields.io/badge/-Instagram-purple)
 ![Walmart](https://img.shields.io/badge/-Walmart-yellow)
 
-### What is Expo?
+## What is Expo?
 > Framework for React Native and makes the development process less complicated
 
 > Expo allows you to submit your project to the Google or Apple app store when it is complete
 
-### How to get started
+## How to get started
 > Install Expo CLI globally
 
   - npm install expo-cli -g
