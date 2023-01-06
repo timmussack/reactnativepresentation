@@ -5,7 +5,6 @@
 
 > Allows you to create both iOS & Android apps
 
-## Benefits of React Native
 > Companies like React Native because they don't have to hire separate developers
   - Swift or Objective-C developers for iOS
   - Java or Kotlin developers for Android
