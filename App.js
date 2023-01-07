@@ -15,7 +15,7 @@ const App = () => {
   //This is a React Native hook to help track screen orientation a useColorScheme() hook also exists
   const {height, width} = useWindowDimensions();
 
-  //Decides flexDirection by asking if screen is landscape, renders elements left to right in landscape otherwise top to bottom
+  //Decides flexDirection by asking if screen is landscape, renders elements left to right in otherwise top to bottom
   let flexType = width > height ? "row" : "column";
 
   //Title text color variable
@@ -91,7 +91,7 @@ const App = () => {
   );
 };
 
-//StyleSheet is an abstraction similar to CSS stylesheet syntax
+//StyleSheet is an abstraction similar to CSS stylesheet
 const styles = StyleSheet.create({
   container: {
     flex: 1,
