@@ -1,11 +1,13 @@
-# React Native & Expo
+# React Native & Expo Presentation
 
 ## What is React Native?
+> Started by Facebook in 2015
+
 > Framework for building native mobile apps using JavaScript
 
 > Allows you to create both iOS & Android apps
 
-> Companies like React Native because they don't have to hire separate developers
+> Companies like React Native because they don't have to hire separate developers for a mobile code base
   - Swift or Objective-C developers for iOS
   - Java or Kotlin developers for Android
 
@@ -34,7 +36,7 @@
 
   - expo init <your_app_name>
 
-  - Choose "managed" workflow for a JavaScrip only project
+  - Choose "managed" workflow for a JavaScript only project
 
   - The other option is a "bare" workflow that allows you to work with the iOS & Android SDK
 
